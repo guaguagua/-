@@ -1,4 +1,4 @@
-###  1.  git
+###  1. git: Permission denied (publickey)
 - 问题现象  
 ```
 git@github.com: Permission denied (publickey).
