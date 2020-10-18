@@ -10,7 +10,7 @@ and the repository exists.
 - 环境  
   已经在linux生成key,并配置到github,而且正常使用过  
   
--  解决方式  
+- 解决方式  
   - [参考](https://www.cnblogs.com/wmr95/p/7852832.html)  
   - `ssh-agent -s`  
   - `` eval `ssh-agent -s` ``  
